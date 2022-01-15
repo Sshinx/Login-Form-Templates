@@ -9,7 +9,7 @@
 
 
 ## 🧿 - Demo Templates :
-  - link
+  - [Login Forms Template](https://bidouffe.github.io)
 
 
 ## 🎱 - Credit :
