@@ -21,6 +21,6 @@
 <p align="center"> 
   <img alt="GitHub watchers" src="https://img.shields.io/github/watchers/Bidouffe/Login-Form-Templates">
   <img alt="star" src="https://img.shields.io/github/stars/Bidouffe/Login-Form-Templates">
-  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/Login-Form-Templatesr">
+  <img alt="commit" src="https://img.shields.io/github/last-commit/Bidouffe/Login-Form-Templates">
   <img alt="license" src="https://img.shields.io/github/license/Bidouffe/Login-Form-Templates">
 </p>
