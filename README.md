@@ -9,7 +9,7 @@
 
 
 ## 🧿 - Demo Templates :
-  - [Login Forms Template](https://bidouffe.github.io)
+  - [Login Forms Template](https://Sshinx.github.io)
 
 
 ## 🎱 - Credit :
